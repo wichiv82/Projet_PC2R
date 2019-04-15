@@ -478,10 +478,8 @@ def server(port,host = ''):
     print("END")
 
 
-# In[118]:
+# In[ ]:
 
 
-if __name__ == "__main__":
-    server(5012,"localhost")
-        
+server(5012,"localhost")
 
